@@ -1,4 +1,6 @@
 // Created with Processing 3.5 Java 
+// artwork on redbubbe at: https://www.redbubble.com/shop/ap/24852476
+// code on github at: https://github.com/rupertrussell/biohazard_warning_symbol
 
 // Biohazard Warning Symbol
 // Code by Rupert Russell
@@ -280,5 +282,5 @@ void draw() {
 
   background(255);
   image(combined, 0, 0);
-  save("combined-2400.png");
+  save("Biohazard_800.png");
 }
